@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+    <nouns>
+        <entry word="Man" answer="Homme"/>
+        <entry word="Woman" answer="Femme"/>
+        <entry word="Child" answer="Enfant"/>
+        <entry word="House" answer="Maison"/>
+        <entry word="Car" answer="Voiture"/>
+    </nouns>
+
+    <verbs>
+        <entry word="To be" answer="Être"/>
+        <entry word="To have" answer="Avoir"/>
+        <entry word="To go" answer="Aller"/>
+        <entry word="To eat" answer="Manger"/>
+        <entry word="To drink" answer="Boire"/>
+    </verbs>
+
+    <adverbs>
+        <entry word="Well" answer="Bien"/>
+        <entry word="Quickly" answer="Vite"/>
+        <entry word="Slowly" answer="Lentement"/>
+        <entry word="Here" answer="Ici"/>
+        <entry word="There" answer="Là"/>
+    </adverbs>
+
+    <adjectives>
+        <entry word="Big" answer="Grand(e)"/>
+        <entry word="Small" answer="Petit(e)"/>
+        <entry word="Good" answer="Bon(ne)"/>
+        <entry word="Happy" answer="Heureux/Heureuse"/>
+        <entry word="Sad" answer="Triste"/>
+    </adjectives>
+
+    <sentences>
+        <entry english="The man is happy." french="L'homme est heureux."/>
+        <entry english="She has a small car." french="Elle a une petite voiture."/>
+        <entry english="We are going to the house." french="Nous allons à la maison."/>
+        <entry english="I eat quickly." french="Je mange vite."/>
+        <entry english="They drink water." french="Ils boivent de l'eau."/>
+        <entry english="The child is sad." french="L'enfant est triste."/>
+        <entry english="He speaks French well." french="Il parle bien français."/>
+        <entry english="The book is on the table." french="Le livre est sur la table."/>
+        <entry english="She is very intelligent." french="Elle est très intelligente."/>
+        <entry english="We are here." french="Nous sommes ici."/>
+    </sentences>
+</language>
