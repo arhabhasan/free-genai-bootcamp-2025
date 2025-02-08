@@ -6,42 +6,89 @@
         <entry word="Child" answer="Enfant"/>
         <entry word="House" answer="Maison"/>
         <entry word="Car" answer="Voiture"/>
+        <entry word="Dog" answer="Chien"/>
+        <entry word="Cat" answer="Chat"/>
+        <entry word="School" answer="École"/>
+        <entry word="Work" answer="Travail"/>
+        <entry word="City" answer="Ville"/>
+        <entry word="Time/Weather" answer="Temps"/>
+        <entry word="Friend" answer="Ami"/>
+        <entry word="Family" answer="Famille"/>
+        <entry word="Water" answer="Eau"/>
+        <entry word="Food" answer="Nourriture"/>
+        <entry word="Street" answer="Rue"/>
+        <entry word="Book" answer="Livre"/>
+        <entry word="Door" answer="Porte"/>
+        <entry word="Sun" answer="Soleil"/>
+        <entry word="Sea" answer="Mer"/>
     </nouns>
 
     <verbs>
         <entry word="To be" answer="Être"/>
         <entry word="To have" answer="Avoir"/>
         <entry word="To go" answer="Aller"/>
+        <entry word="To do/make" answer="Faire"/>
+        <entry word="To say" answer="Dire"/>
+        <entry word="To be able to/can" answer="Pouvoir"/>
+        <entry word="To want" answer="Vouloir"/>
+        <entry word="To come" answer="Venir"/>
+        <entry word="To see" answer="Voir"/>
+        <entry word="To take" answer="Prendre"/>
         <entry word="To eat" answer="Manger"/>
         <entry word="To drink" answer="Boire"/>
+        <entry word="To sleep" answer="Dormir"/>
+        <entry word="To read" answer="Lire"/>
+        <entry word="To write" answer="Écrire"/>
+        <entry word="To speak" answer="Parler"/>
+        <entry word="To listen" answer="Écouter"/>
+        <entry word="To watch" answer="Regarder"/>
+        <entry word="To learn" answer="Apprendre"/>
+        <entry word="To understand" answer="Comprendre"/>
     </verbs>
 
     <adverbs>
         <entry word="Well" answer="Bien"/>
+        <entry word="Badly" answer="Mal"/>
         <entry word="Quickly" answer="Vite"/>
         <entry word="Slowly" answer="Lentement"/>
+        <entry word="Often" answer="Souvent"/>
+        <entry word="Always" answer="Toujours"/>
+        <entry word="Never" answer="Jamais"/>
+        <entry word="Sometimes" answer="Parfois"/>
         <entry word="Here" answer="Ici"/>
         <entry word="There" answer="Là"/>
+        <entry word="Now" answer="Maintenant"/>
+        <entry word="Soon" answer="Bientôt"/>
+        <entry word="Yesterday" answer="Hier"/>
+        <entry word="Today" answer="Aujourd’hui"/>
+        <entry word="Tomorrow" answer="Demain"/>
+        <entry word="Very" answer="Très"/>
+        <entry word="Too much" answer="Trop"/>
+        <entry word="A little" answer="Peu"/>
+        <entry word="Already" answer="Déjà"/>
+        <entry word="Together" answer="Ensemble"/>
     </adverbs>
 
     <adjectives>
-        <entry word="Big" answer="Grand(e)"/>
+        <entry word="Big/Tall" answer="Grand(e)"/>
         <entry word="Small" answer="Petit(e)"/>
         <entry word="Good" answer="Bon(ne)"/>
+        <entry word="Bad" answer="Mauvais(e)"/>
+        <entry word="Beautiful" answer="Beau/Belle"/>
+        <entry word="Young" answer="Jeune"/>
+        <entry word="Old" answer="Vieux/Vieille"/>
+        <entry word="New" answer="Nouveau/Nouvelle"/>
         <entry word="Happy" answer="Heureux/Heureuse"/>
         <entry word="Sad" answer="Triste"/>
+        <entry word="Easy" answer="Facile"/>
+        <entry word="Difficult" answer="Difficile"/>
+        <entry word="Hot" answer="Chaud(e)"/>
+        <entry word="Cold" answer="Froid(e)"/>
+        <entry word="Fast" answer="Rapide"/>
+        <entry word="Slow" answer="Lent(e)"/>
+        <entry word="Strong" answer="Fort(e)"/>
+        <entry word="Weak" answer="Faible"/>
+        <entry word="Intelligent" answer="Intelligent(e)"/>
+        <entry word="Interesting" answer="Intéressant(e)"/>
     </adjectives>
-
-    <sentences>
-        <entry english="The man is happy." french="L'homme est heureux."/>
-        <entry english="She has a small car." french="Elle a une petite voiture."/>
-        <entry english="We are going to the house." french="Nous allons à la maison."/>
-        <entry english="I eat quickly." french="Je mange vite."/>
-        <entry english="They drink water." french="Ils boivent de l'eau."/>
-        <entry english="The child is sad." french="L'enfant est triste."/>
-        <entry english="He speaks French well." french="Il parle bien français."/>
-        <entry english="The book is on the table." french="Le livre est sur la table."/>
-        <entry english="She is very intelligent." french="Elle est très intelligente."/>
-        <entry english="We are here." french="Nous sommes ici."/>
-    </sentences>
 </language>
