@@ -1,0 +1,97 @@
+<language>
+    <!-- Common French Nouns (English to French) -->
+    <nouns>
+        <entry word="house" answer="la maison"/>
+        <entry word="time/weather" answer="le temps"/>
+        <entry word="person" answer="la personne"/>
+        <entry word="child" answer="l’enfant"/>
+        <entry word="work" answer="le travail"/>
+        <entry word="life" answer="la vie"/>
+        <entry word="day" answer="le jour"/>
+        <entry word="woman" answer="la femme"/>
+        <entry word="man" answer="l’homme"/>
+        <entry word="city" answer="la ville"/>
+        <entry word="street" answer="la rue"/>
+        <entry word="book" answer="le livre"/>
+        <entry word="school" answer="l’école"/>
+        <entry word="family" answer="la famille"/>
+        <entry word="water" answer="l’eau"/>
+        <entry word="food" answer="la nourriture"/>
+        <entry word="country" answer="le pays"/>
+        <entry word="hand" answer="la main"/>
+        <entry word="friend" answer="l’ami"/>
+        <entry word="problem" answer="le problème"/>
+    </nouns>
+
+    <!-- Common French Verbs (English to French) -->
+    <verbs>
+        <entry word="to be" answer="être"/>
+        <entry word="to have" answer="avoir"/>
+        <entry word="to do/make" answer="faire"/>
+        <entry word="to go" answer="aller"/>
+        <entry word="to say" answer="dire"/>
+        <entry word="to be able to" answer="pouvoir"/>
+        <entry word="to want" answer="vouloir"/>
+        <entry word="to come" answer="venir"/>
+        <entry word="to take" answer="prendre"/>
+        <entry word="to speak" answer="parler"/>
+        <entry word="to like/love" answer="aimer"/>
+        <entry word="to eat" answer="manger"/>
+        <entry word="to drink" answer="boire"/>
+        <entry word="to see" answer="voir"/>
+        <entry word="to know" answer="savoir"/>
+        <entry word="to have to/must" answer="devoir"/>
+        <entry word="to give" answer="donner"/>
+        <entry word="to find" answer="trouver"/>
+        <entry word="to understand" answer="comprendre"/>
+        <entry word="to learn" answer="apprendre"/>
+    </verbs>
+
+    <!-- Common French Adverbs (English to French) -->
+    <adverbs>
+        <entry word="very" answer="très"/>
+        <entry word="a lot" answer="beaucoup"/>
+        <entry word="a little" answer="peu"/>
+        <entry word="well" answer="bien"/>
+        <entry word="badly" answer="mal"/>
+        <entry word="quickly" answer="vite"/>
+        <entry word="slowly" answer="lentement"/>
+        <entry word="always" answer="toujours"/>
+        <entry word="often" answer="souvent"/>
+        <entry word="sometimes" answer="parfois"/>
+        <entry word="never" answer="jamais"/>
+        <entry word="here" answer="ici"/>
+        <entry word="there" answer="là"/>
+        <entry word="now" answer="maintenant"/>
+        <entry word="yesterday" answer="hier"/>
+        <entry word="today" answer="aujourd’hui"/>
+        <entry word="tomorrow" answer="demain"/>
+        <entry word="together" answer="ensemble"/>
+        <entry word="really" answer="vraiment"/>
+        <entry word="almost" answer="presque"/>
+    </adverbs>
+
+    <!-- Common French Adjectives (English to French) -->
+    <adjectives>
+        <entry word="big/tall" answer="grand"/>
+        <entry word="small" answer="petit"/>
+        <entry word="good" answer="bon"/>
+        <entry word="bad" answer="mauvais"/>
+        <entry word="new" answer="nouveau"/>
+        <entry word="old" answer="vieux"/>
+        <entry word="young" answer="jeune"/>
+        <entry word="beautiful" answer="beau"/>
+        <entry word="pretty" answer="joli"/>
+        <entry word="hot" answer="chaud"/>
+        <entry word="cold" answer="froid"/>
+        <entry word="easy" answer="facile"/>
+        <entry word="difficult" answer="difficile"/>
+        <entry word="happy" answer="heureux"/>
+        <entry word="sad" answer="triste"/>
+        <entry word="long" answer="long"/>
+        <entry word="short" answer="court"/>
+        <entry word="strong" answer="fort"/>
+        <entry word="weak" answer="faible"/>
+        <entry word="interesting" answer="intéressant"/>
+    </adjectives>
+</language>
